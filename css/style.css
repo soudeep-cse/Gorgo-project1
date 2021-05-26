@@ -1,0 +1,406 @@
+* {
+    padding: 0;
+    margin: 0;
+}
+
+/* Start Heading section */
+
+section {}
+
+.header {
+    width: 70%;
+    margin: auto;
+    overflow: hidden;
+    padding: 15px;
+}
+
+.logo {
+    width: 20%;
+    float: left;
+}
+
+.logo img {
+    cursor: pointer;
+}
+
+.nav {
+    width: 30%;
+    float: left;
+}
+
+.nav ul {
+    list-style: none;
+}
+
+.nav ul li {
+    float: left;
+    margin-left: 20px;
+    margin-top: 18px;
+    cursor: pointer;
+    color: #59576B;
+}
+
+.purchase {
+    width: 17%;
+    float: right;
+    margin-top: 7px;
+}
+
+.purchase p {
+    background-color: #FF6162;
+    text-align: center;
+    padding: 14px 11px;
+    font-weight: bold;
+    border-radius: 5px;
+    color: #FFEFEF;
+    cursor: pointer;
+}
+
+/* End Heading section */
+
+/* Start minimal content section */
+
+.minimul-content {
+    width: 70%;
+    margin: auto;
+    margin-top: 40px;
+    overflow: hidden;
+}
+
+.left-minimal-content {
+    width: 48%;
+    float: left;
+}
+
+.left-minimal-content h1 {
+    color: #292642;
+    font-size: 48px;
+    margin-bottom: 15px;
+}
+
+.left-minimal-content p {
+    color: #A7ACB0;
+}
+
+.left-minimal-content img {
+    margin-top: 20px;
+    cursor: pointer;
+}
+
+.right-minimal-content {
+    width: 48%;
+    float: right;
+}
+
+.right-minimal-content img {
+    cursor: pointer;
+    /* margin-left: 92px; */
+    text-align: left;
+}
+
+/* End minimal content section */
+
+/* Start Stunning section */
+
+.stunning-demo {
+    width: 90%;
+    margin: auto;
+    overflow: hidden;
+    margin-top: 115px;
+}
+
+.stunning-demo h1 {
+    text-align: center;
+    color: #292640;
+    font-size: 30;
+    font-size: 30px;
+    margin-bottom: 18px;
+}
+
+.stunning-demo p {
+    text-align: center;
+    color: #A7ACB0;
+    font-size: 16px;
+    margin-bottom: 20px;
+}
+
+.stunning-demo-one {
+    width: 22%;
+    float: left;
+}
+
+.stunning-demo-one h1 {
+    font-size: 18px;
+}
+
+.stunning-demo-one img {
+    height: 350px;
+}
+
+/* ----------------- */
+
+.stunning-demo-two {
+    width: 22%;
+    float: left;
+    margin-left: 4%;
+}
+
+.stunning-demo-two h1 {
+    font-size: 18px;
+}
+
+.stunning-demo-two img {
+    cursor: pointer;
+    height: 350px;
+}
+
+/* --------------------- */
+
+.stunning-demo-three {
+    width: 22%;
+    float: left;
+    margin-left: 4%;
+}
+
+.stunning-demo-three h1 {
+    font-size: 18px;
+}
+
+.stunning-demo-three img {
+    cursor: pointer;
+    height: 350px;
+}
+
+/* --------------------- */
+
+.stunning-demo-four {
+    width: 22%;
+    float: right;
+}
+
+.stunning-demo-four h1 {
+    font-size: 18px;
+}
+
+.stunning-demo-four img {
+    cursor: pointer;
+    height: 350px;
+}
+
+/* End Stunning section */
+
+/* Start Icon */
+
+.icon {
+    text-align: center;
+    margin-top: 60px;
+    margin-bottom: 100px;
+    /* float: right; */
+    height: 58px;
+}
+
+.icon img {
+    height: 50px;
+}
+
+/* End Icon */
+
+/* Start Features section */
+
+.features {
+    width: 60%;
+    margin: auto;
+    overflow: hidden;
+    margin-top: 120px;
+}
+
+.features h1 {
+    text-align: center;
+    margin-bottom: 10px;
+    color: #292666;
+    font-size: 35px;
+}
+
+.features p {
+    text-align: center;
+    margin-bottom: 30px;
+    color: #A7ACB0;
+}
+
+/* --------------------- */
+
+.feature-first {
+    overflow: hidden;
+}
+
+.feature-first-one {
+    width: 28%;
+    float: left;
+    text-align: center;
+    background: #F5F5F5;
+    padding: 15px 10px;
+}
+
+.feature-first-one img {
+    height: 50px;
+    cursor: pointer;
+}
+
+.feature-first-one h1 {
+    font-size: 15px;
+}
+
+.feature-first-one p {}
+
+/* -------------------------- */
+
+.feature-first-two {
+    width: 28%;
+    float: left;
+    margin-left: 5%;
+    text-align: center;
+    background: #F5F5F5;
+    padding: 15px 10px;
+}
+
+.feature-first-two img {
+    height: 50px;
+    cursor: pointer;
+}
+
+.feature-first-two h1 {
+    font-size: 15px;
+}
+
+.feature-first-two p {}
+
+/* ------------------------- */
+
+.feature-first-three {
+    width: 28%;
+    float: right;
+    text-align: center;
+    background: #F5F5F5;
+    padding: 15px 10px;
+}
+
+.feature-first-three img {
+    height: 50px;
+    cursor: pointer;
+}
+
+.feature-first-three h1 {
+    font-size: 15px;
+}
+
+.feature-first-three p {}
+
+/* ----------------------------- */
+
+.feature-first-four {
+    width: 28%;
+    float: left;
+    text-align: center;
+    background: #F5F5F5;
+    margin-top: 35px;
+    padding: 15px 10px;
+}
+
+.feature-first-four img {
+    height: 50px;
+    cursor: pointer;
+}
+
+.feature-first-four h1 {
+    font-size: 15px;
+}
+
+.feature-first-four p {}
+
+/* -------------------------- */
+
+.feature-first-five {
+    width: 28%;
+    float: left;
+    margin-left: 5%;
+    text-align: center;
+    background: #F5F5F5;
+    margin-top: 35px;
+    padding: 15px 10px;
+}
+
+.feature-first-five img {
+    height: 50px;
+    cursor: pointer;
+}
+
+.feature-first-five h1 {
+    font-size: 15px;
+}
+
+.feature-first-five p {}
+
+/* ------------------------- */
+
+.feature-first-six {
+    width: 28%;
+    float: right;
+    text-align: center;
+    background: #F5F5F5;
+    margin-top: 35px;
+    padding: 15px 10px;
+}
+
+.feature-first-six img {
+    height: 50px;
+    cursor: pointer;
+}
+
+.feature-first-six h1 {
+    font-size: 15px;
+}
+
+.feature-first-six p {}
+
+/* End Features section */
+
+/* Start Footer section */
+
+.footer {
+    margin-top: 100px;
+    background-color: #292640;
+}
+
+.footer h1 {
+    text-align: center;
+    color: #FFFFFF;
+    font-size: 40px;
+    padding: 50px;
+}
+
+.footer p {
+    padding: 11px 3px;
+    background-color: #FF6162;
+    width: 13%;
+    margin: auto;
+    border-radius: 5px;
+    cursor: pointer;
+    color: #FFFFFF;
+    font-size: 15px;
+    text-align: center;
+}
+
+.footer img {
+    margin-left: 50%;
+    height: 46px;
+    padding: 12px;
+}
+
+.footer .shape {
+    text-align: center;
+    margin: auto;
+    cursor: pointer;
+    float: right;
+}
+
+/* End Footer section */
